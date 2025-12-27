@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "goodhostingbot.aternos.me", 
-    "port": 11111,   
+    "ip": "SimpleTesting.aternos.me", 
+    "port": 27841,   
     "version": "1.12.1"   
   },
   
